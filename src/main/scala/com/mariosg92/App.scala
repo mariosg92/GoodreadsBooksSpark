@@ -96,7 +96,7 @@ object App {
       Array[String]()
     }
   }
-
+  // Función para determinar si estoy utilizando hdfs o el sistema de archivos local a la hora de coger los datasets
   def fileSystemExe(fs: String, ruta: String): Array[String] = {
     if (fs.equals("hdfs")) {
       val fs = FileSystem.get(new Configuration())
