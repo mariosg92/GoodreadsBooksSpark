@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="GoodreadsBooksSpark:jar">
+    <output-path>$USER_HOME$/Desktop/Untitled Folder/jar</output-path>
+    <root id="archive" name="GoodreadsBooksSpark.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/scala/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="GoodreadsBooksSpark" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.12.6/scala-library-2.12.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
