@@ -15,6 +15,4 @@ Para la correcta ejecución de la app se le debe pasar los siguientes argumentos
    - Ordenar los libros de mayor a menor (Top 15) por número de ratings dados por usuarios (excluir aquellos valores sin rating)
    - Obtener Top 5 de ratings más frecuentes otorgados por usuarios
 
-- Notebook databricks: https://bit.ly/2RGH6D1
-
 
